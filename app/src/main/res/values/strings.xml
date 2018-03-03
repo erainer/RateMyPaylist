@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Playlist</string>
+    <string name="song1Title">Selena Gomez and Marshmello - Wolves</string>
+    <string name="song2Title">Boombox Cartel ft. ID - Nothing to Hide</string>
+    <string name="song3Title">Migos and Marshmello - Danger</string>
+    <string name="txtTitle">Rate my Playlist</string>
+</resources>
